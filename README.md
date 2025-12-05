@@ -1,12 +1,3 @@
----
-
-# ⭐ Short Description (FER-2013 + AlexNet + Real-Time)
-
-**Emotion recognition system built using the AlexNet architecture, trained on the FER-2013 facial expression dataset and integrated with real-time computer vision for live emotion detection using a webcam.**
-
----
-
-# 📘 README.md
 
 # Emotion Recognition using AlexNet on FER-2013 with Real-Time Computer Vision
 
@@ -150,47 +141,6 @@ This transforms the project from a research model into an **interactive, product
 * scikit-learn
 * TQDM
 
----
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Add the FER-2013 dataset
-
-Place **fer2013.csv** inside the project folder.
-
-### 4. Train the model
-
-```bash
-jupyter notebook Alexnet_Emotion.ipynb
-```
-
-### 5. Run real-time recognition
-
-```bash
-python real_time_emotion.py
-```
-
----
-
-## 📈 Results (Add your values)
-
-* Training Accuracy: **xx%**
-* Validation Accuracy: **xx%**
-* Test Accuracy: **xx%**
-* Real-time prediction success: **Working**
 
 ---
 
